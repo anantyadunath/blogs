@@ -1,0 +1,3 @@
+# Welcome to the blog !
+
+Just a draft page to get started on the actuals later....
